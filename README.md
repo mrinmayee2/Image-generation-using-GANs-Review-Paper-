@@ -1,9 +1,4 @@
-# 🧠 Image Generation using GANs (Review Paper)
-
-📄 **Paper Link:** (add your PDF link here)
-
 ---
-
 ## 📌 About the Project  
 This repository contains a **comprehensive review paper on Generative Adversarial Networks (GANs)**, focusing on their role in **image generation**.
 
@@ -76,10 +71,10 @@ GANs, introduced in 2014, use two neural networks — a **Generator** and a **Di
 
 ## 👩‍💻 Authors  
 
+- Mrinmayee Wakde  
 - Tanishka Patil  
 - Rakshita Ganjewar  
 - Janhavi Singh  
-- Mrinmayee Wakde  
 
 ---
 
