@@ -4,6 +4,8 @@ This repository contains a comprehensive review paper on Generative Adversarial 
 
 GANs, introduced in 2014, use two neural networks — a Generator and a Discriminator — that compete with each other to generate realistic data. This paper studies their evolution, architectures, and real-world applications.
 
+
+
 🔍 Topics Covered
 Introduction to GANs
 Adversarial learning & working mechanism
